@@ -78,7 +78,7 @@ let s:colors.base6 = { 'gui': '#99d1ce', 'cterm': 7 }
 let s:colors.base7 = { 'gui': '#d3ebe9', 'cterm': 15 }
 
 " Other colors.
-let s:colors.red     = { 'gui': '#c23127', 'cterm': 1  }
+let s:colors.red     = { 'gui': '#bf616a', 'cterm': 1  }
 let s:colors.orange  = { 'gui': '#d26937', 'cterm': 9  }
 let s:colors.yellow  = { 'gui': '#edb443', 'cterm': 3  }
 let s:colors.magenta = { 'gui': '#888ca6', 'cterm': 13 }
